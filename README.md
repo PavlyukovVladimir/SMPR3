@@ -6,4 +6,4 @@
 
 ## Навигация
 
-<p><a href='Jupyter-notebook-notes/int_ex_criteria.cross_validation.ipynb'>Внутренние и внешние критерии</a></p>
+<p><a href='Jupyter-notebook-notes/int_ex_criteria.cross_validation.html'>Внутренние и внешние критерии</a></p>
