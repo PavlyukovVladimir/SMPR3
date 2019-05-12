@@ -6,7 +6,7 @@
 
 ## Навигация
 
-<p><b>Внутренние и внешние критерии</b></p>
+<b>Внутренние и внешние критерии</b>
 <p><a href='Jupyter-notebook-notes/int_ex_criteria.cross_validation.ipynb'>Скользящий контроль</a></p>
 <p><a href='Jupyter-notebook-notes/int_ex_criteria.cross_validation.ipynb'>Эффект переобучения</a></p>
 <p><a href='Jupyter-notebook-notes/int_ex_criteria.cross_validation.ipynb'>Аналитические оценки обобщающей способности</a></p>
